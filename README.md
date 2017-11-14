@@ -1,0 +1,2 @@
+# Waves
+display sine wave
